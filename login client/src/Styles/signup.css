@@ -1,0 +1,43 @@
+#register-wrap-all {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.heading-caption {
+  width: 268px;
+  text-align: center;
+  font-size: 17px;
+  font-weight: 600;
+  /* line-height: 20px; */
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  margin: 0 40px 10px;
+  color: #737373;
+}
+
+.signup-fb-login {
+  width: 16rem;
+}
+
+.signup-fb-login a {
+  color: white;
+}
+
+.privacy-policy-wrap {
+  width: 268px;
+  text-align: center;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  white-space: pre-line;
+  padding: 10px;
+}
+
+.privacy-policy-wrap a {
+  color: #00376b;
+}
+
+.signup-login-button {
+  margin: 20px 0;
+}
